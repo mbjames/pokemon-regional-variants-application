@@ -1,5 +1,5 @@
 # Pokemon Regional Variants Application
-ASCII first generation pokedex application.
+Application for viewing pokemon regional variants
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
