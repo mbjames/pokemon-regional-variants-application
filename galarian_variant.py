@@ -92,7 +92,7 @@ galarian_linoone.type = ['Dark', 'Normal']
 
 galarian_obstagoon = Galarian()
 galarian_obstagoon.name = 'Galarian Obstagoon'
-galarian_obstagoon.type = ['Dark' 'Normal']
+galarian_obstagoon.type = ['Dark', 'Normal']
 
 galarian_darumaka = Galarian()
 galarian_darumaka.name = 'Galarian Darumaka'
